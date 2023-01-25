@@ -1,7 +1,5 @@
 # laucher
-
 pubspec.yaml =>  device_apps: ^2.2.0
-
 AndroidManifest.xml =>   <intent-filter>
  <category android:name="android.intent.category.HOME" />
  <category android:name="android.intent.category.DEFAULT" />
